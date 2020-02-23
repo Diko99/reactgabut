@@ -1,0 +1,26 @@
+img {
+    width: 20px;
+}
+
+.logos{
+    width: 50px;
+}
+.keranjang{
+    width: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.count{
+    margin-left: 10px;
+    font-size: 30px;
+    position: relative;
+    top: 5px;    
+}
+.navbar {
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+
+  
+
+  
